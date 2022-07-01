@@ -1,0 +1,220 @@
+{
+	"_id": 1,
+	"name": "Inugami Korone",
+	"img": "https://static.wikia.nocookie.net/virtualyoutuber/images/0/05/Inugami_Korone_img.png/revision/latest?cb=20190405185913",
+	"info": {
+		"description":"This is a fighting, but at the same time cute(very cute) dog.",
+		"weapon": "Dog Paws",
+		"rang": "A",
+		"hp": 200,
+		"damage": [32, 47]
+	},
+	"lose": {
+		"1": "Lost... And lost, no time to cry, because still need to find a bone."
+	},
+	"win": {
+		"1": "The dog lost control and froth came out of its mouth... This is the last thing the opponent remembers.",
+		"2": "She pulled out a buried bone and hit the oponent's head with it. It was an elephant's bone..."
+	}
+}
+{
+	"_id": 2,
+	"name": "Gawr Gura",
+	"img": "https://static.wikia.nocookie.net/virtualyoutuber/images/4/4f/Gawr_Gura_Portrait.png/revision/latest?cb=20200910192716",
+	"info": {
+		"description":"The shark from the depths of the English lakes. Or just A",
+		"weapon": "Shark's tail",
+		"rang": "S",
+		"hp": 340,
+		"damage": [35, 90]
+	},
+	"lose": {
+		"1": "The shark is very sad( Sorry that the tears in the water are not visible."
+	},
+	"win": {
+		"1": "The shark ran to the enemy with quick jerks and delivered a last powerful blow with its tail.",
+		"2": "Spat a stream of water at the hunter, and he fell on the wet asphalt, fell directly to the shark. F"
+	}
+}
+
+{
+	"_id": 3,
+	"name": "Shirakami Fubuki",
+	"img": "https://static.wikia.nocookie.net/virtualyoutuber/images/e/e8/Shirakami_Fubuki_Portrait.jpg/revision/latest/scale-to-width-down/310?cb=20190206185441",
+	"info": {
+		"description":"The first one who started it all. . .",
+		"weapon": "Happy smile",
+		"rang": "SSS",
+		"hp": 1300,
+		"damage": [130, 140]
+	},
+	"lose": {
+		"1": "I couldn't fool anyone."
+	},
+	"win": {
+		"1": "Conspired with neighboring vtuber, and betrayed all.",
+		"2": "Quickly jumped over all and W O N"
+	}
+}
+
+{
+	"_id": 4,
+	"name": "Usada Pekora",
+	"img": "https://static.wikia.nocookie.net/virtualyoutuber/images/9/95/Usada_Pekora_-_Portrait.png/revision/latest/scale-to-width-down/310?cb=20190821034245",
+	"info": {
+		"description":"Just an ordinary rabbit who likes carrots.",
+		"weapon": "Giant carrot",
+		"rang": "SS",
+		"hp": 530,
+		"damage": [80, 97]
+	},
+	"lose": {
+		"1": "Lost."
+	},
+	"win": {
+		"1": "Hit the opponent's head with a giant carrot.",
+		"2": "She bit her enemy with her rabbit teeth."
+	}
+}
+
+{
+	"_id": 5,
+	"name": "Himesaki Yuzuru",
+	"img": "https://static.wikia.nocookie.net/virtualyoutuber/images/9/9e/Himesaki_Yuzuru_Fullbody.jpeg/revision/latest/scale-to-width-down/249?cb=20200810044832",
+	"info": {
+		"description":"A rabbit with VERY high hopes.",
+		"weapon": "Adjacent hair strikes",
+		"rang": "B",
+		"hp": 70,
+		"damage": [23, 41]
+	},
+	"lose": {
+		"1": "Lose"
+	},
+	"win": {
+		"1": "Win",
+		"2": "Win"
+	}
+}
+
+#new
+
+{
+	"_id": 6,
+	"name": "Uruha Rushia",
+	"img": "https://static.wikia.nocookie.net/virtualyoutuber/images/a/a2/Uruha_Rushia_-_Portrait.png/revision/latest/scale-to-width-down/310?cb=20190821034540",
+	"info": {
+		"description":"A quiet, somewhat naive girl who easily panics. Although she is usually innocent and kind, she can sometimes fly into a rage and scream in an uncharacteristic bestial manner before regaining her composure",
+		"weapon": "Rage",
+		"rang": "S",
+		"hp": 420,
+		"damage": [12, 32]
+	},
+	"lose": {
+		"1": "Her opponent deceived her, and in the course of her naivety, she was led, and thus lost."
+	},
+	"win": {
+		"1": "With the help of her anger, she activated a mode unknown to herself. And destroyed his opponent in crumbs",
+		"2": "I got too mad at what was happening and blew everything up"
+	}
+}
+
+{
+	"_id": 7,
+	"name": "Watson Amelia",
+	"img": "https://static.wikia.nocookie.net/virtualyoutuber/images/9/97/Watson_Amelia_Portrait.png/revision/latest/scale-to-width-down/310?cb=20200910193116",
+	"info": {
+		"description":"A rather expressive girl who can often be seen taunting or teasing other HoloArena members (mostly Gura). She is usually kind, supportive, and sweet, as shown when she is often willing to help a thick-headed guru in Minecraft",
+		"weapon": "Magnifier",
+		"rang": "SS",
+		"hp": 560,
+		"damage": [74, 98]
+	},
+	"lose": {
+		"1": "Looking through her magnifying glass, she realized that she would not win."
+	},
+	"win": {
+		"1": "With the help of her intelligence, she took advantage of the terrain and defeated all her enemies!",
+		"2": "I hit my opponent's head with my big magnifying glass :/"
+	}
+}
+
+{
+	"_id": 8,
+	"name": "Mori Calliope",
+	"img": "https://static.wikia.nocookie.net/virtualyoutuber/images/3/39/Mori_Calliope_Portrait.png/revision/latest/scale-to-width-down/310?cb=20200910193007",
+	"info": {
+		"description":"Calliope is equally excited about both rapping and reaping. Her favorite weapon is a flail, a medieval weapon made from a metal ball with spikes on the chain. She is easily confused by romantic relationships, which is why some call her the 'tsundi killer'.",
+		"weapon": "Flail",
+		"rang": "A",
+		"hp": 148,
+		"damage": [85, 95]
+	},
+	"lose": {
+		"1": "The opponent sent her a couple of sweet words, which made Mori start to doubt - this was her mistake"
+	},
+	"win": {
+		"1": "She began to spin the flail along the axis and demolished the enemy in this way.",
+		"2": "She threw a flail at her opponent. He caught it, but he didn't expect it to be so heavy. Calliope decided not to miss this beautiful moment and kicked her opponent's head."
+	}
+}
+
+{
+	"_id": 9,
+	"name": "Akai Haato",
+	"img": "https://static.wikia.nocookie.net/virtualyoutuber/images/7/77/Akai_Haato_Portrait.png/revision/latest/scale-to-width-down/310?cb=20190215174535",
+	"info": {
+		"description":"Haato seems to be a classic tsundere who teases her fans by, among other things, calling them Kimo OTA (creepy otaku). Playing video games, Haato has significantly more confidence than real skills, which usually end up biting her in the back. She is infamous for her deafening screams, and often lets out these screams even when not playing horror games.",
+		"weapon": "A bite in the back or Haato's blessing",
+		"rang": "C",
+		"hp": 57,
+		"damage": [23, 41]
+	},
+	"lose": {
+		"1": "She underestimated her opponent, and it all resulted in her sad defeat"
+	},
+	"win": {
+		"1": "She made a lot of bites in the back, so she was able to overcome her opponent.",
+		"2": "Uttered The 'blessing of Haato' at maximum volume, causing the enemy to lose the ability to hear. Just like being able to think for the next 15 hours."
+	}
+}
+
+{
+	"_id": 10,
+	"name": "Takanashi Kiara",
+	"img": "https://static.wikia.nocookie.net/virtualyoutuber/images/2/28/Takanashi_Kiara_Portrait.png/revision/latest/scale-to-width-down/310?cb=20200910192822",
+	"info": {
+		"description":"Kiara is enthusiastic, friendly and open to her feelings. She cares deeply about her friends and family and misses them very much while abroad. Although she is energetic and sometimes chaotic in nature and tends to collaborate with other participants, she is secretly quite shy. Sometimes it has a bird's brain, it is forgetful or not attentive enough.",
+		"weapon": "Chicken leg",
+		"rang": "A",
+		"hp": 190,
+		"damage": [74, 92]
+	},
+	"lose": {
+		"1": "She didn't want to hit someone, because it hurts others. So she decided to give up."
+	},
+	"win": {
+		"1": "Conspired with one of the participants of HoloArena, which turned out that the opponent accidentally dropped his pants. And Kiara quickly demolished the entire strip of life from the enemy.",
+		"2": "She summoned an army of chickens(and one rooster) and set them all against the enemy."
+	}
+}
+
+{
+	"_id": 11,
+	"name": "Shiranui Flare",
+	"img": "https://static.wikia.nocookie.net/virtualyoutuber/images/8/82/Shiranui_Flare_-_Portrait_02.png/revision/latest/scale-to-width-down/310?cb=20191205142732",
+	"info": {
+		"description":"A kind and extremely modest person, almost to the point of failure. Her kindness is most often vouched for by other members of the HoloArena Fantasy Version, which led to her so-called "harem", with the exception of Pecora.",
+		"weapon": "Fire staff",
+		"rang": "SS",
+		"hp": 600,
+		"damage": [71, 84]
+	},
+	"lose": {
+		"1": "I lost because of my kindness to all living things."
+	},
+	"win": {
+		"1": "She created a ring of fire and quickly took off the head of the enemy.",
+		"2": "The enemy couldn't defeat her. Well, how can you beat such a good creature?"
+	}
+}
